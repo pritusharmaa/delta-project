@@ -1,2 +1,2 @@
 # delta-project
-This is a Project for Git &amp; Github class
+This is a Project for Git &amp; Github class.
